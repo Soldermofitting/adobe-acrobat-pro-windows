@@ -4,8 +4,13 @@
 
 Adobe Acrobat Pro · MoggyDay · 2026 · v26.2
 
-# Adobe Acrobat Pro 2026 “Pro for Windows: PDF, OCR, signatures” [v26.2]
+# Adobe Acrobat Pro 2026 “for Windows: PDF, OCR, signatures” [v26.2]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-1.jpg" alt="convert" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-2.jpg" alt="about" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-3.jpg" alt="home" width="280"></a>
+</p>
 <p><img src="docs/media/logos/adobe-acrobat-pro.svg" alt="Adobe Acrobat Pro" height="48"></p>
 
 MoggyDay keeps one stable URL for Adobe Acrobat Pro: EN / RU. Edit PDF, OCR, signatures. Russian UI, 1.5 GB, Windows x64.
