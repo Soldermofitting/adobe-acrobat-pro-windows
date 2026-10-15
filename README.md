@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/adobe-acrobat-pro-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/adobe-acrobat-pro-windows/?lang=en) · [Русский](https://soldermofitting.github.io/adobe-acrobat-pro-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="docs/media/preview.jpg" alt="Acrobat Pro preview" width="640"></a>
+</p>
+
 Adobe Acrobat · MoggyDay · 2026 · v26.2
 
 # Adobe Acrobat 2026 “for Windows: PDF, OCR, signatures” [v26.2]
