@@ -146,6 +146,11 @@
     [data-i18n] { display: none; }
     html[data-lang="ru"] [data-i18n="ru"],
     html[data-lang="en"] [data-i18n="en"] { display: block; }
+    .hero-preview { margin: 0 0 22px; }
+    .hero-preview img {
+      width: 100%; max-height: 380px; object-fit: cover; object-position: left center;
+      border-radius: 16px; border: 1px solid var(--line); display: block;
+    }
     .strip {
       display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;
       margin: 8px 0 28px;
@@ -194,6 +199,7 @@
         </div>
       </div>
     </header>
+    <p class="hero-preview"><img src="media/preview.jpg" alt="preview"></p>
     <div class="strip">
       <a href="https://moggydayprogram.com/en/programs/adobe-acrobat-pro"><img src="media/shot-1.jpg" alt="convert"><span>convert</span></a>
       <a href="https://moggydayprogram.com/en/programs/adobe-acrobat-pro"><img src="media/shot-2.jpg" alt="about"><span>about</span></a>
@@ -259,6 +265,7 @@
         </div>
       </div>
     </header>
+    <p class="hero-preview"><img src="media/preview.jpg" alt="preview"></p>
     <div class="strip">
       <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="media/shot-1.jpg" alt="конвертация"><span>конвертация</span></a>
       <a href="https://moggydayprogram.com/programs/adobe-acrobat-pro"><img src="media/shot-2.jpg" alt="о программе"><span>о программе</span></a>
